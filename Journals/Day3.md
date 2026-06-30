@@ -1,4 +1,8 @@
-Today I started Building the case, being unfamiliar with onshape I first became comfortable with the software by building a small bottle, Then I started the tutorial and imported my pcb step file,
+Today I started Building the case, being unfamiliar with onshape I first became comfortable with the software by building a small bottle
+
+<img width="1115" height="551" alt="image" src="https://github.com/user-attachments/assets/c9f50611-7168-46db-8c57-a789aaa6ef7a" />
+
+Then I started the tutorial and imported my pcb step file,
 I kept of following the steps provided and built a top Plate.
 <img width="1358" height="654" alt="JournalScreenshot8" src="https://github.com/user-attachments/assets/e19b5c90-3796-4cce-bde6-7068d2c82a5f" />
 
@@ -16,3 +20,4 @@ then I made a usb hole and the bottom layer,after that I Split the Plate.mid lay
 <img width="1366" height="656" alt="image" src="https://github.com/user-attachments/assets/f6e28638-62ff-4aa4-b7ac-77f4b534f529" />
 
 Making this all Took me about 7 hours.
+I struggled quite a  bit with making the case,since I didnt use a keyboard layout designer or a plate designer, and keys  being slightly unsymmetric for some keys i couldnt get a proper reference for key switch holes, to get the centre i  drew  2 diagonals of each square in middle of switch and marked intersection point as the centre. for the stabilisers i made a rectangle slightly larger than the big hole for pcb mount so that it could fit in.
