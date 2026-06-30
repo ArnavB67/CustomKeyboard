@@ -8,4 +8,4 @@ After This  was done began the final process of making the pcb that is routing t
 <img width="1365" height="768" alt="JournalScreenshot6" src="https://github.com/user-attachments/assets/7e8bcde9-231f-43f7-8796-e84174db1bc5" />
 <img width="1366" height="768" alt="JournalScreenshot7" src="https://github.com/user-attachments/assets/ab5e0651-bd4a-4777-a8f0-d5269ca2e353" />
 
-Finishing Everything took me 8 hours in total, being unfamiliar with the software I made some mistakes and was slower.
+Finishing Everything took me 8 hours in total, being unfamiliar with the software I made some mistakes, I did the routing wrong initially and blocked off the route path to connect keys to the board, the keys and diodes were also sometimes not being placed correctly and were off by a few millimeters. On my first DRC run i got some missing connection errors and the pins on board were in some not allowed to place area.
